@@ -1,0 +1,13 @@
+.header-img{
+    background-image: url('../images/Rectangle\ 5.png'),url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bttn-bg{
+    background: #B68C5A;
+}
+.ftsize{
+    font-size: 76px;
+    font-family: 'EB Garamond';
+}
+
