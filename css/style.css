@@ -36,7 +36,7 @@
     height: 90px;
     width: 90px;
 }
-.carousel-inner p{
+.carousel-inner p, footer p{
     opacity: 85%;
 }
 
