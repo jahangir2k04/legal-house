@@ -13,4 +13,29 @@
 .title{
     font-family: 'EB Garamond';
 }
+.criminal-bg-gradient{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
 
+.carousel-bg-img-1{
+    background-image: url('../images/Rectangle\ 7.png'), url('../images/slider-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-bg-img-2{
+    background-image: url('../images/Rectangle\ 7.png'), url('../images/slider-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-bg-img-3{
+    background-image: url('../images/Rectangle\ 7.png'), url('../images/slider-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-inner img{
+    height: 90px;
+    width: 90px;
+}
+.carousel-inner p{
+    opacity: 85%;
+}
